@@ -1,0 +1,76 @@
+{ "passeios":
+[
+    {
+        "id": 1,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/03/cataratas.jpg",
+        "nome": "Passeio cataratas do Iguaçu",
+        "preco": "150"
+    },
+    {
+        "id": 2,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/03/parque-aves.jpg",
+        "nome": "Parque das aves",
+        "preco": "80"
+    },
+    {
+        "id": 3,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/03/city-paraguai.jpg",
+        "nome": "City tour Paraguai",
+        "preco": "90"
+    },
+    {
+        "id": 4,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/03/jamtar-tematico.jpg",
+        "nome": "Jantar temático restaurante argentino",
+        "preco": "200"
+    },
+    {
+        "id": 5,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/03/bar-gelo.jpg",
+        "nome": "Bar de gelo foz do Iguaçu",
+        "preco": "95"
+    },
+    {
+        "id": 6,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/03/itaipu.jpg",
+        "nome": "Visita a usina de Itaipu",
+        "preco": "60"
+    },
+    {
+        "id": 7,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/03/city-argentina.jpg",
+        "nome": "City tour na Argentina",
+        "preco": "80"
+    },
+    {
+        "id": 8,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/03/astronomico.jpg",
+        "nome": "Visita polo astronômico",
+        "preco": "40"
+    },
+    {
+        "id": 9,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/03/argentina-experience.jpg",
+        "nome": "The Argentina experiênce",
+        "preco": "180"
+    },
+    {
+        "id": 10,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/03/roda-gigante.jpg",
+        "nome": "Passeio roda gigante foz",
+        "preco": "50"
+    },
+    {
+        "id": 11,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/03/tres-fronteiras.jpg",
+        "nome": "Passeio marco das 3 fronteiras",
+        "preco": "50"
+    },
+    {
+        "id": 12,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/03/helicoptero.jpg",
+        "nome": "Passeio de helicóptero pelas cataratas",
+        "preco": "450"
+    }
+]
+}
